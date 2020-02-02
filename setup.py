@@ -7,7 +7,7 @@ setup(  name="Repo Cloner",
                             'gitpython',
                             'argparse',
                             'gitdb'],
-        entry_points={'console_scripts': ['repocloner = src.repocloner:main']},
+        entry_points={'console_scripts': ['repo-cloner = repo_cloner.main:main']},
         author="Ozencb",
         description="A command-line tool to clone starred or created repositories of a user",
         license=open('LICENSE').read()

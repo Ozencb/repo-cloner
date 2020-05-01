@@ -1,6 +1,6 @@
 [![GitHub Issues](https://img.shields.io/github/issues/Ozencb/repo-cloner)](https://github.com/Ozencb/repo-cloner/issues)
-[![Stars](https://img.shields.io/github/stars/Ozencb/repo-cloner)]()
-[![Forks](https://img.shields.io/github/forks/Ozencb/repo-cloner)]()
+[![Stars](https://img.shields.io/github/stars/Ozencb/repo-cloner)](https://github.com/Ozencb/repo-cloner)
+[![Forks](https://img.shields.io/github/forks/Ozencb/repo-cloner)](https://github.com/Ozencb/repo-cloner)
 [![MIT](https://img.shields.io/github/license/Ozencb/repo-cloner)](../master/LICENSE)
 
 # Repo Cloner
